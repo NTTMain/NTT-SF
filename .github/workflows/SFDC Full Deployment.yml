@@ -6,6 +6,7 @@ on:
       - Dev
       - QA
   pull_request:
+  
   branches:
       - Dev
       - QA
